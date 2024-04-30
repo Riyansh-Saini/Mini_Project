@@ -12,3 +12,7 @@ Technologies Used:
 Python: The core of the project is developed in Python, leveraging popular libraries such as NumPy, Pandas, and Scikit-learn for data preprocessing, modeling, and evaluation.
 Machine Learning Algorithms: Various machine learning algorithms, including decision trees, random forests, and support vector machines, are employed for disease prediction.
 Flask: The web application is built using Flask, a lightweight WSGI web application framework in Python, providing a seamless user experience.
+
+Python: The core of the project is developed in Python, leveraging popular libraries such as NumPy, Pandas, and Scikit-learn for data preprocessing, modeling, and evaluation.
+Machine Learning Algorithms: Various machine learning algorithms, including decision trees, random forests, and support vector machines, are employed for disease prediction.
+\
